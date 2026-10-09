@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "title": "Python Programming",
+    "instructor": "John Smith",
+    "lessons": [
+      { "id": 101, "title": "Introduction to Python", "order": 0, "isCompleted": true },
+      { "id": 102, "title": "Setting Up the Environment", "order": 1, "isCompleted": true },
+      { "id": 103, "title": "Variables and Data Types", "order": 2, "isCompleted": true },
+      { "id": 104, "title": "Operators and Expressions", "order": 3, "isCompleted": true },
+      { "id": 105, "title": "Conditional Statements", "order": 4, "isCompleted": true },
+      { "id": 106, "title": "Loops", "order": 5, "isCompleted": true },
+      { "id": 107, "title": "Functions", "order": 6, "isCompleted": true },
+      { "id": 108, "title": "Lists", "order": 7, "isCompleted": true },
+      { "id": 109, "title": "Tuples and Sets", "order": 8, "isCompleted": true },
+      { "id": 110, "title": "Dictionaries", "order": 9, "isCompleted": true },
+      { "id": 111, "title": "Working with Strings", "order": 10, "isCompleted": true },
+      { "id": 112, "title": "Modules and Packages", "order": 11, "isCompleted": true },
+      { "id": 113, "title": "File Handling", "order": 12, "isCompleted": true },
+      { "id": 114, "title": "Exception Handling", "order": 13, "isCompleted": false },
+      { "id": 115, "title": "Object-Oriented Programming", "order": 14, "isCompleted": false },
+      { "id": 116, "title": "Inheritance", "order": 15, "isCompleted": false },
+      { "id": 117, "title": "Iterators and Generators", "order": 16, "isCompleted": false },
+      { "id": 118, "title": "Testing Python Code", "order": 17, "isCompleted": false },
+      { "id": 119, "title": "Working with APIs", "order": 18, "isCompleted": false },
+      { "id": 120, "title": "Final Python Project", "order": 19, "isCompleted": false }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Generative AI",
+    "instructor": "Sarah Williams",
+    "lessons": [
+      { "id": 201, "title": "Introduction to Generative AI", "order": 0, "isCompleted": true },
+      { "id": 202, "title": "Machine Learning Foundations", "order": 1, "isCompleted": true },
+      { "id": 203, "title": "Neural Networks", "order": 2, "isCompleted": true },
+      { "id": 204, "title": "Transformer Architecture", "order": 3, "isCompleted": true },
+      { "id": 205, "title": "Large Language Models", "order": 4, "isCompleted": true },
+      { "id": 206, "title": "Prompt Engineering", "order": 5, "isCompleted": true },
+      { "id": 207, "title": "Embeddings", "order": 6, "isCompleted": false },
+      { "id": 208, "title": "Retrieval-Augmented Generation", "order": 7, "isCompleted": false },
+      { "id": 209, "title": "Image Generation", "order": 8, "isCompleted": false },
+      { "id": 210, "title": "Evaluating AI Outputs", "order": 9, "isCompleted": false },
+      { "id": 211, "title": "Responsible AI", "order": 10, "isCompleted": false },
+      { "id": 212, "title": "Safety and Guardrails", "order": 11, "isCompleted": false },
+      { "id": 213, "title": "Building an AI Feature", "order": 12, "isCompleted": false },
+      { "id": 214, "title": "Monitoring AI Systems", "order": 13, "isCompleted": false },
+      { "id": 215, "title": "Generative AI Project", "order": 14, "isCompleted": false }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Development",
+    "instructor": "David Brown",
+    "lessons": [
+      { "id": 301, "title": "How the Web Works", "order": 0, "isCompleted": true },
+      { "id": 302, "title": "HTML Foundations", "order": 1, "isCompleted": true },
+      { "id": 303, "title": "CSS Foundations", "order": 2, "isCompleted": true },
+      { "id": 304, "title": "Responsive Layouts", "order": 3, "isCompleted": true },
+      { "id": 305, "title": "JavaScript Fundamentals", "order": 4, "isCompleted": true },
+      { "id": 306, "title": "Modern JavaScript", "order": 5, "isCompleted": false },
+      { "id": 307, "title": "Frontend Components", "order": 6, "isCompleted": false },
+      { "id": 308, "title": "Client-Side State", "order": 7, "isCompleted": false },
+      { "id": 309, "title": "Backend Fundamentals", "order": 8, "isCompleted": false },
+      { "id": 310, "title": "REST APIs", "order": 9, "isCompleted": false },
+      { "id": 311, "title": "Relational Databases", "order": 10, "isCompleted": false },
+      { "id": 312, "title": "Authentication", "order": 11, "isCompleted": false },
+      { "id": 313, "title": "Authorization", "order": 12, "isCompleted": false },
+      { "id": 314, "title": "Input Validation", "order": 13, "isCompleted": false },
+      { "id": 315, "title": "Application Testing", "order": 14, "isCompleted": false },
+      { "id": 316, "title": "Error Handling", "order": 15, "isCompleted": false },
+      { "id": 317, "title": "Logging and Monitoring", "order": 16, "isCompleted": false },
+      { "id": 318, "title": "Deployment", "order": 17, "isCompleted": false },
+      { "id": 319, "title": "Performance Basics", "order": 18, "isCompleted": false },
+      { "id": 320, "title": "Full Stack Final Project", "order": 19, "isCompleted": false }
+    ]
+  }
+]
